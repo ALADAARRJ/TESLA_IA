@@ -1,0 +1,3 @@
+pecas pica papas con un pico
+se entregan tres partes y un requisito adicional número 1 la documentación del proyecto
+documentación de proyecto se adjunta un archivo pdf con los puntos obligatorios a contener sí consideran qué partes del proyecto no entran algunos de los 6 puntos de la documentación and agregarlo al final del documento con un anexo
